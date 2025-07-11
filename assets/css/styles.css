@@ -58,19 +58,6 @@ a {
   }
 }
 
-@media (max-width: 180px) {
-  .column-flow {
-    flex-direction: column;
-    gap: 5px;
-  }
-}
-
-@media (max-width: 180px) {
-  .column-flow .me-2 {
-    margin-right: 0 !important;
-  }
-}
-
 /* Hero Section */
 
 .hero {

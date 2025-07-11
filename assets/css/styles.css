@@ -95,12 +95,14 @@ a {
 
 .trending {
   margin-top: 10px;
+  max-width: 100%;
 }
 
 .trending a {
   color: rgba(255,255,255,0.8);
   margin-inline: 8px;
   font-size: 0.9rem;
+  display: inline-block;
 }
 
 .trending a:hover {

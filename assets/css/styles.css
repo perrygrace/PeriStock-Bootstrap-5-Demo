@@ -2,6 +2,10 @@ body {
   font-family: "Segoe UI";
 }
 
+a {
+  text-decoration: none;
+}
+
 /* customize our navbar toggler */
 
 .navbar {
@@ -65,5 +69,42 @@ body {
   .column-flow .me-2 {
     margin-right: 0 !important;
   }
+}
+
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.4) 0%, rgba(0,0,0,1) 100%), url("../../assets/img/pexels-photo-4340919-1.jpeg") center;
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.search-box {
+  max-width: 600px;
+  width: 100%;
+}
+
+.search-input {
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 1.1rem;
+}
+
+.trending {
+  margin-top: 10px;
+}
+
+.trending a {
+  color: rgba(255,255,255,0.8);
+  margin-inline: 8px;
+  font-size: 0.9rem;
+}
+
+.trending a:hover {
+  color: white;
+  text-decoration: underline;
 }
 

@@ -166,5 +166,11 @@ a {
   margin: 5px;
   color: #495057;
   font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.tag-item:hover {
+  background-color: #f1f3f5;
+  color: #212529;
 }
 

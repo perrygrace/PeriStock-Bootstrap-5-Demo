@@ -150,3 +150,21 @@ a {
   }
 }
 
+/* Popular Tags */
+
+.tags-row {
+  padding-block: 20px;
+  background-color: #f8f9fa;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.tag-item {
+  display: inline-block;
+  background-color: white;
+  border: 1px solid #e9ecef;
+  padding: 6px 12px;
+  margin: 5px;
+  color: #495057;
+  font-size: 0.9rem;
+}
+

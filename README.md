@@ -77,7 +77,7 @@ You are free to use, modify, distribute, and reuse this code in personal or comm
 
 ### Third-Party Attributions
 
-- Bootstrap files (`bootstrap.min.css`, `bootstrap.min.js`, etc.) are included in this repository and are licensed under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE) by the Bootstrap Authors.
+- Bootstrap files (`bootstrap.min.css` and `bootstrap.min.js`) are included in this repository and are licensed under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE) by the Bootstrap Authors.
 - All images used are sourced from [Pexels](https://www.pexels.com) and remain under the [Pexels License](https://www.pexels.com/license/).
 
 See [NOTICE](./NOTICE) for full attribution details.

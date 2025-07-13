@@ -13,7 +13,7 @@ The goal of this project is to practice using Bootstrap 5 in a real-world layout
 * Fully responsive layout using Bootstrap 5
 * **Navbar** with branding
 * **Hero section** with call-to-action
-* **Masonry-style image grid** using Bootstrap columns
+* **Masonry-style image grid** using CSS columns
 * **Load More** button (UI only)
 * **Footer** with basic site links and attribution
 

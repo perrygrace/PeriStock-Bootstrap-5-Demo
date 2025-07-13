@@ -22,6 +22,10 @@ SOFTWARE.
 
 ---
 
-**Note:** This license applies to the source code of this project only.  
-All images used in this project are sourced from [Pexels](https://www.pexels.com) and remain the property of their respective creators.  
-They are used in accordance with the [Pexels License](https://www.pexels.com/license/).
+**Notes:**
+
+- This license applies to the original source code of this project only.
+- Bootstrap files (`bootstrap.min.css`, `bootstrap.min.js`, etc.) are included in this repository **for demonstration purposes only** and are not the author's original work.  
+  Bootstrap is an open-source project licensed under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE).  
+  All rights to Bootstrap belong to the [Bootstrap Authors](https://github.com/twbs/bootstrap).  
+- All images used in this project are sourced from [Pexels](https://www.pexels.com) and are used under the terms of the [Pexels License](https://www.pexels.com/license/).

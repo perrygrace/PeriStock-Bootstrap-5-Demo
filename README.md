@@ -4,30 +4,32 @@
 
 This is a sandbox project for experimenting with [Bootstrap 5](https://getbootstrap.com/) in the context of a simple **stock photo landing page**. It’s intended as a learning resource for myself and others who want to understand how to structure responsive layouts using Bootstrap 5 components.
 
+![](PeriStock.gif)
+
 ## 🌟 Purpose
 
 The goal of this project is to practice using Bootstrap 5 in a real-world layout. It also serves as a guide for beginners who want to learn how to build and structure a webpage using Bootstrap without any build tools or frameworks—just plain HTML, CSS, and JS.
 
 ## 🚀 Features
 
-* Fully responsive layout using Bootstrap 5
-* **Navbar** with branding
-* **Hero section** with call-to-action
-* **Masonry-style image grid** using CSS columns
-* **Load More** button (UI only)
-* **Footer** with basic site links and attribution
+- Fully responsive layout using Bootstrap 5
+- **Navbar** with branding
+- **Hero section** with call-to-action
+- **Masonry-style image grid** using CSS columns
+- **Load More** button (UI only)
+- **Footer** with basic site links and attribution
 
 ## 📷 Design & Assets
 
-* Images sourced from [Pexels](https://pexels.com)
-* Simple and clean design inspired by modern stock photo websites
+- Images sourced from [Pexels](https://pexels.com)
+- Simple and clean design inspired by modern stock photo websites
 
 ## 🛠 Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript (vanilla)
-* Bootstrap 5
+- HTML5
+- CSS3
+- JavaScript (vanilla)
+- Bootstrap 5
 
 ## 📦 Installation
 
@@ -41,10 +43,10 @@ No build steps or dependencies required.
 
 ## 📚 Learning Focus
 
-* Bootstrap grid system
-* Responsive design
-* Navbar and footer components
-* Image layout with utility classes
+- Bootstrap grid system
+- Responsive design
+- Navbar and footer components
+- Image layout with utility classes
 
 ## 🖼️ Photo Attributions
 
@@ -66,7 +68,7 @@ Photos used in this demo are sourced from [Pexels](https://pexels.com) and credi
 14. [Aerial View of Sand](https://www.pexels.com/photo/aerial-view-of-sand-3375116/) — Nick Wehrli
 15. [Aerial Photography of a Beach](https://www.pexels.com/photo/aerial-photography-of-a-beach-4144736/) — Darren Lawrence
 16. [White and Black Picture Frame](https://www.pexels.com/photo/white-and-black-picture-frame-4340919/) — Taryn Elliott
-    
+
 ---
 
 ## 📄 License

@@ -27,7 +27,7 @@ The goal of this project is to practice using Bootstrap 5 in a real-world layout
 * HTML5
 * CSS3
 * JavaScript (vanilla)
-* Bootstrap 5 (via CDN)
+* Bootstrap 5
 
 ## 📦 Installation
 

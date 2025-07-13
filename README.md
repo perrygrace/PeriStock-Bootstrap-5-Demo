@@ -66,12 +66,21 @@ Photos used in this demo are sourced from [Pexels](https://pexels.com) and credi
 14. [Aerial View of Sand](https://www.pexels.com/photo/aerial-view-of-sand-3375116/) — Nick Wehrli
 15. [Aerial Photography of a Beach](https://www.pexels.com/photo/aerial-photography-of-a-beach-4144736/) — Darren Lawrence
 16. [White and Black Picture Frame](https://www.pexels.com/photo/white-and-black-picture-frame-4340919/) — Taryn Elliott
+    
+---
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
-You are free to use, modify, and distribute this project with attribution.
-**Note:** All photos remain the property of their respective creators and are used under the terms of the Pexels license.
+This project is licensed under the [MIT License](./LICENSE).
+
+You are free to use, modify, distribute, and reuse this code in personal or commercial projects, with attribution.
+
+### Third-Party Attributions
+
+- Bootstrap files (`bootstrap.min.css`, `bootstrap.min.js`, etc.) are included in this repository and are licensed under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE) by the Bootstrap Authors.
+- All images used are sourced from [Pexels](https://www.pexels.com) and remain under the [Pexels License](https://www.pexels.com/license/).
+
+See [NOTICE](./NOTICE) for full attribution details.
 
 ---
 

@@ -350,3 +350,16 @@ footer a:hover {
   }
 }
 
+/* Load Button */
+
+.load-btn {
+  padding: 5px 10px;
+}
+
+@media (max-width: 300px) {
+  .load-btn {
+    font-size: 0.7rem;
+    padding: 5px;
+  }
+}
+
